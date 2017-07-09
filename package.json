@@ -1,0 +1,29 @@
+{
+  "name": "multiversal-js",
+  "version": "0.1.0",
+  "description": "Export modules to another universe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redneck-f25/multiversal-js.git"
+  },
+  "keywords": [
+    "require",
+    "export",
+    "vanilla"
+  ],
+  "author": "Daniel Hammerschmidt <daniel@redneck-engineering.com>",
+  "licenses": [
+    {
+      "type": "ISC",
+      "url": "https://github.com/redneck-f25/multiversal-js/blob/master/LICENSE-ISC"
+    }
+  ],  
+  "bugs": {
+    "url": "https://github.com/redneck-f25/multiversal-js/issues"
+  },
+  "homepage": "https://github.com/redneck-f25/multiversal-js#readme"
+}
