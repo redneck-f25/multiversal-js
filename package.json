@@ -1,6 +1,6 @@
 {
-  "name": "multiversal-js",
-  "version": "0.1.0",
+  "name": "multiversal",
+  "version": "0.1.1",
   "description": "Export modules to another universe.",
   "main": "index.js",
   "scripts": {
